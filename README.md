@@ -1,5 +1,5 @@
 # dummy-restaurant-order-analysis
-Analysis of a dummy restaurant orders using MySQL
+✨**Analysis of a dummy restaurant orders using MySQL**✨
 
 In the following repository, I analyzed the customer data of a dummy restaurant that has diverse menu offerings and serves generous portions using MySQL. In here, I wanted to see which menu items are doing well/not well and what the top customers seem to like best.
 
